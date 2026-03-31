@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hello! I'm Pranshu Agarwal 👋
+
+## 🎓 Student Profile
+- **Name:** Pranshu Agarwal
+- **Registration Number:** 25BAI11526
+- **Branch:** Artificial Intelligence and Machine Learning
+- **Academic Years:** 2025 - 2029
+
+## 🎯 My Goals
+I hope to learn new skills and gain good knowledge in my subject.
 
 <!--
 **Pranshu125/Pranshu125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
