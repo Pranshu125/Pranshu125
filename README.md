@@ -1,12 +1,12 @@
-# Hello! I'm Pranshu Agarwal 👋
+# Hello! I'm Pranshu Agarwal 
 
-## 🎓 Student Profile
+## Student Profile
 - **Name:** Pranshu Agarwal
 - **Registration Number:** 25BAI11526
 - **Branch:** Artificial Intelligence and Machine Learning
 - **Academic Years:** 2025 - 2029
 
-## 🎯 My Goals
+## My Goals
 I hope to learn new skills and gain good knowledge in my subject.
 
 <!--
